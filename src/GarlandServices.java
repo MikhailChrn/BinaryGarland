@@ -1,3 +1,5 @@
+import BinaryLight.BinaryLight;
+
 public class GarlandServices {
 
     public static void printBinary(BinaryLight garland)
